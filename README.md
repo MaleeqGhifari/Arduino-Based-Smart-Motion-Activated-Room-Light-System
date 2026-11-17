@@ -56,5 +56,5 @@ An ongoing hardware prototyping project integrating an Arduino Uno, an HC-SR501 
 * **Current Status & Learnings:** While system testing revealed that the SG90 micro-servo's torque limit falls short against the heavy spring resistance of a standard household wall switch, this active design study provided crucial data on torque-to-load ratios and electromechanical constraints.
 
 ## Repository Contents
-* `smart_light.ino`: The core C++ control script.
-* `/docs`: System wiring notes and troubleshooting logs.
+* `Sketch_AutomatedRoomLightSystem.ino`: The core C++ control script.
+* `README.md`: System wiring notes and troubleshooting logs.
