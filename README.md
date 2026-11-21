@@ -7,7 +7,7 @@ An ongoing hardware prototyping project integrating an Arduino Uno, an HC-SR501 
 * **Circuit & Wiring:**
 ![Circuit 1](Circuit1.jpeg) ![Circuit 2](Circuit2.jpeg) ![Circuit 3](Circuit3.jpeg) ![Circuit 4](Circuit4.jpeg) ![Circuit 5](Circuit5.jpeg)
 * **Circuit Wiring & Testing (Concept):**
-  *(demo_video.mp4)*
+[Watch Demo Video](demo_video.mp4)
   
 ## Components Used
 | Component / Part Name | Quantity |
