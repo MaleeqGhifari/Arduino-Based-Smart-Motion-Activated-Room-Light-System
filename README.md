@@ -6,7 +6,7 @@ An ongoing hardware prototyping project integrating an Arduino Uno, an HC-SR501 
 ## Visual Documentation & Prototyping
 * **Circuit & Wiring:**
 ![Circuit 1](Circuit1.jpeg) ![Circuit 2](Circuit2.jpeg) ![Circuit 3](Circuit3.jpeg) ![Circuit 4](Circuit4.jpeg) ![Circuit 5](Circuit5.jpeg)
-* **Circuit Wiring & Testing:**
+* **Circuit Wiring & Testing (Concept):**
   *(demo_video.mp4)*
   
 ## Components Used
@@ -22,7 +22,10 @@ An ongoing hardware prototyping project integrating an Arduino Uno, an HC-SR501 
 | 1K Resistor | 1 |
 | 5.1k Resistor | 1 |
 | Breadboard | 1 |
-| Jumper Wires, Male-Male Wires, Male-Female Wires | - |
+| Jumper Wires | 4 |
+| Male-Female Wires | 7 |
+| Male-Male Wires (Short) | 2 |
+| Male-Male Wires (Medium) | 5 |
 
 ## Simple Circuit Guide & Wiring
 * **Power Supply:**
